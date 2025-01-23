@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nandita Sahoo</h1>
+<h1 align="center">Hi 👋, I'm passionate_learner Nandita </h1>
 <h3 align="center">A passionate web_ML developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-photo/celebration-labour-day-with-3d-cartoon-portrait-working-woman_23-2151306618.jpg">
 
